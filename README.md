@@ -1,11 +1,8 @@
-# Clinic-Appointment-and-Diagnostics-Platform
+# Clinic-Appointment-and-Diagnostics-Platform - ER Diagram
 
 https://app.eraser.io/workspace/YUGg5YO0SW39S0ykIhSd?origin=share
 
-
 ***
-
-# Clinic Management System - ER Diagram
 
 This README outlines the database schema designed for a comprehensive, modern clinic management system. The design handles everything from basic patient scheduling to advanced features like pharmacy prescriptions, lab diagnostics, and insurance-based billing.
 
